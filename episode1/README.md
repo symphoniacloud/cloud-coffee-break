@@ -2,9 +2,9 @@
 
 Welcome to Cloud Coffee Break Episode One!
 
-This episode is available on [YouTube, here](https://youtu.be/W_6PaRDLGpw) .
+This episode is available on [YouTube, here](https://youtu.be/W_6PaRDLGpw).
 
-Slides for this episode are [available here](https://drive.google.com/file/d/1gSVuqBZA6NvZfWO9XlCHSfZGbXWg6NFk/view?usp=sharing) .
+Slides for this episode are [available here](https://drive.google.com/file/d/1gSVuqBZA6NvZfWO9XlCHSfZGbXWg6NFk/view?usp=sharing).
 
 Our free eBook, _What is Serverless?_, that I mention, is [available here](https://www.symphonia.io/resources/).
 
@@ -22,7 +22,7 @@ Here I'll go through these in a little more detail.
 
 ### Suitable credentials to an AWS account
 
-"Serverless Hello World" uses **Amazon Web Services** (AWS) . In order to deploy the app you therefore need access to an AWS Account.
+"Serverless Hello World" uses **Amazon Web Services** (AWS). In order to deploy the app you therefore need access to an AWS Account.
 
 #### Creating an AWS account
 
@@ -32,7 +32,7 @@ If you already have access to AWS you can skip this step, otherwise you'll need 
 * Low throughput use, including what I cover in "Serverless Hello World", will be covered by the [AWS Free Tier](https://aws.amazon.com/free/free-tier/), but you'll be responsible for any charges beyond this tier.
 * You'll need a "root user" email address that has not been used for any other AWS account. Since I use Google for email, I often use the same basic email address [but with a `+` sign in the username part](https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html) to differentiate, which works fine for AWS signup.
 
-The actual process for creating an account is to go to [aws.amazon.com](https://aws.amazon.com/), hit the "Create an account" button, and follow the guide. The official instructions from AWS are also available [here](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) .
+The actual process for creating an account is to go to [aws.amazon.com](https://aws.amazon.com/), hit the "Create an account" button, and follow the guide. The official instructions from AWS are also available [here](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/).
 
 #### AWS credentials
 
@@ -42,7 +42,7 @@ Once you know which AWS account you're going to use you'll need to have credenti
 1. Assign it _AdministratorAccess_ privileges (assuming this is not a production account!)
 1. Create programmatic access keys for the user
 
-There's a guide to doing this provided by the folks at Serverless Stack [here](https://serverless-stack.com/chapters/create-an-iam-user.html) .
+There's a guide to doing this provided by the folks at Serverless Stack [here](https://serverless-stack.com/chapters/create-an-iam-user.html).
 
 ### Install AWS CLI, configure with your credentials
 
@@ -105,7 +105,7 @@ First of all, create a new directory and switch to it, e.g.:
 % cd hello-world
 ```
 
-Next, in this directory, create a new file named `template.yaml`, the contents of which are provided [here](./template.yaml) .
+Next, in this directory, create a new file named `template.yaml`, the contents of which are provided [here](./template.yaml).
 
 Build and Deploy this app as follows:
 
