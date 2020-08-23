@@ -7,3 +7,4 @@ If you have suggestions or questions for future episodes please email me at mike
 ## Episodes
 
 * [Episode 1](./episode1/README.md)
+* [Episode 2](./episode2/README.md)
