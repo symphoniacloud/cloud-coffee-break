@@ -8,3 +8,4 @@ If you have suggestions or questions for future episodes please email me at mike
 
 * [Episode 1](./episode1/README.md)
 * [Episode 2](./episode2/README.md)
+* [Episode 3](./episode3/README.md)
