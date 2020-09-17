@@ -8,7 +8,8 @@ If you have suggestions or questions for future episodes please email me at mike
 
 | Episode | Video | Description |
 | --- | --- | --- |
-| [Episode 1](./episode1/README.md) | [YouTube](https://youtu.be/W_6PaRDLGpw) |Introduction to serverless, deploying serverless "Hello World" |
+| [Episode 1](./episode1/README.md) | [YouTube](https://youtu.be/W_6PaRDLGpw) | Introduction to serverless, deploying serverless "Hello World" |
 | [Episode 2](./episode2/README.md) | [YouTube](https://youtu.be/MxXV6dBBKIc) | Serverless & testing, creating [**Coffee Store**](https://github.com/symphoniacloud/coffee-store), adding a unit test |
 | [Episode 3](./episode3/README.md) | [YouTube](https://youtu.be/UxZZQFjKXyo) | Continuous Integration, setting up CodeBuild |
 | [Episode 4](./episode4/README.md) | [YouTube](https://youtu.be/CtneKRmskrM) | Integration testing, adding an integration test to [**Coffee Store**](https://github.com/symphoniacloud/coffee-store) |
+| [Episode 5](./episode5/README.md) | [YouTube](https://youtu.be/5y1sxIO2TM4) | Deployment Environments, enabling integration testing in CodeBuild |
